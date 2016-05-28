@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Chaser.cs" />
+     <Compile Include="Assets\CubeScript.cs" />
      <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\test.cs" />
  <Reference Include="UnityEngine.UI">
