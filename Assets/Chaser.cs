@@ -4,7 +4,7 @@ using System.Collections;
 public class Chaser : MonoBehaviour {
 
 	public Transform targetTransfrom;
-	float speed = 7;
+	public float speed = 7;
 
 	void Update() {
 		Vector3 displacementFromTarget = targetTransfrom.position - transform.position;
